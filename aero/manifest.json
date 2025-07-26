@@ -1,1 +1,29 @@
-
+{
+  "name": "Theme Name",
+  "version": "1.0.0",
+  "description": "A beautiful theme for DesQTA",
+  "author": "Your Name",
+  "preview": {
+    "thumbnail": "thumbnail.png"
+  },
+  "customProperties": {
+    "primaryColor": "#3b82f6",
+    "secondaryColor": "#1e40af",
+    "backgroundColor": "#ffffff"
+  },
+  "features": {
+    "glassmorphism": false,
+    "gradients": true
+  },
+  "fonts": {
+    "body": "Inter, sans-serif",
+    "heading": "Inter, sans-serif"
+  },
+  "animations": {
+    "transition": "all 0.2s ease"
+  },
+  "settings": {
+    "defaultAccentColor": "#3b82f6",
+    "defaultTheme": "light"
+  }
+}
