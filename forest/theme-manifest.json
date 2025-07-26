@@ -1,0 +1,50 @@
+{
+  "name": "Forest",
+  "version": "1.0.0",
+  "description": "A lush green theme inspired by forests and nature.",
+  "author": "DesQTA Community",
+  "license": "MIT",
+  "compatibility": {
+    "minVersion": "1.0.0",
+    "maxVersion": "2.0.0"
+  },
+  "preview": {
+    "thumbnail": "/external-themes/forest/preview.png",
+    "screenshots": []
+  },
+  "settings": {
+    "defaultAccentColor": "#228B22",
+    "defaultTheme": "dark",
+    "supportsLightMode": true,
+    "supportsDarkMode": true,
+    "supportsSystemMode": true
+  },
+  "customProperties": {
+    "primaryColor": "#228B22",
+    "secondaryColor": "#6B8E23",
+    "successColor": "#2E8B57",
+    "warningColor": "#FFD700",
+    "errorColor": "#B22222",
+    "backgroundColor": "#1B2B1B",
+    "surfaceColor": "#223322",
+    "textColor": "#E6FFE6",
+    "borderColor": "#355E3B",
+    "shadowColor": "rgba(34, 139, 34, 0.2)"
+  },
+  "fonts": {
+    "primary": "Inter",
+    "secondary": "Georgia",
+    "monospace": "JetBrains Mono"
+  },
+  "animations": {
+    "duration": "200ms",
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "enableEnhanced": true
+  },
+  "features": {
+    "customScrollbars": true,
+    "glassmorphism": false,
+    "gradients": true,
+    "shadows": true
+  }
+} 

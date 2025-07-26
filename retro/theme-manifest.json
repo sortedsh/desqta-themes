@@ -1,0 +1,50 @@
+{
+  "name": "Retro",
+  "version": "1.0.0",
+  "description": "A playful retro theme with bold colors and vintage vibes.",
+  "author": "DesQTA Community",
+  "license": "MIT",
+  "compatibility": {
+    "minVersion": "1.0.0",
+    "maxVersion": "2.0.0"
+  },
+  "preview": {
+    "thumbnail": "/external-themes/retro/preview.png",
+    "screenshots": []
+  },
+  "settings": {
+    "defaultAccentColor": "#ff69b4",
+    "defaultTheme": "light",
+    "supportsLightMode": true,
+    "supportsDarkMode": true,
+    "supportsSystemMode": true
+  },
+  "customProperties": {
+    "primaryColor": "#ff69b4",
+    "secondaryColor": "#ffd700",
+    "successColor": "#32cd32",
+    "warningColor": "#ffa500",
+    "errorColor": "#dc143c",
+    "backgroundColor": "#fff8dc",
+    "surfaceColor": "#ffe4e1",
+    "textColor": "#222222",
+    "borderColor": "#ff69b4",
+    "shadowColor": "rgba(255, 105, 180, 0.2)"
+  },
+  "fonts": {
+    "primary": "Inter",
+    "secondary": "Courier New",
+    "monospace": "JetBrains Mono"
+  },
+  "animations": {
+    "duration": "200ms",
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "enableEnhanced": true
+  },
+  "features": {
+    "customScrollbars": true,
+    "glassmorphism": false,
+    "gradients": true,
+    "shadows": true
+  }
+} 

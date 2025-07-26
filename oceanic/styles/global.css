@@ -1,0 +1,18 @@
+body {
+  background: #0a192f;
+  color: #e0f7fa;
+  font-family: Inter, Arial, sans-serif;
+}
+
+.button, .accent {
+  background: #0077be;
+  color: #fff;
+}
+
+.surface {
+  background: #112240;
+}
+
+a {
+  color: #00bfff;
+} 

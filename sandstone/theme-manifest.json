@@ -1,0 +1,50 @@
+{
+  "name": "Sandstone",
+  "version": "1.0.0",
+  "description": "A warm, earthy theme inspired by desert sands.",
+  "author": "DesQTA Community",
+  "license": "MIT",
+  "compatibility": {
+    "minVersion": "1.0.0",
+    "maxVersion": "2.0.0"
+  },
+  "preview": {
+    "thumbnail": "/external-themes/sandstone/preview.png",
+    "screenshots": []
+  },
+  "settings": {
+    "defaultAccentColor": "#c2b280",
+    "defaultTheme": "light",
+    "supportsLightMode": true,
+    "supportsDarkMode": true,
+    "supportsSystemMode": true
+  },
+  "customProperties": {
+    "primaryColor": "#c2b280",
+    "secondaryColor": "#e4d96f",
+    "successColor": "#bdb76b",
+    "warningColor": "#ffb347",
+    "errorColor": "#cd5c5c",
+    "backgroundColor": "#f5f5dc",
+    "surfaceColor": "#ede6c7",
+    "textColor": "#5c432e",
+    "borderColor": "#c2b280",
+    "shadowColor": "rgba(194, 178, 128, 0.2)"
+  },
+  "fonts": {
+    "primary": "Inter",
+    "secondary": "Times New Roman",
+    "monospace": "JetBrains Mono"
+  },
+  "animations": {
+    "duration": "200ms",
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "enableEnhanced": true
+  },
+  "features": {
+    "customScrollbars": true,
+    "glassmorphism": false,
+    "gradients": false,
+    "shadows": true
+  }
+} 

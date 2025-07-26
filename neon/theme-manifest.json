@@ -1,0 +1,50 @@
+{
+  "name": "Neon",
+  "version": "1.0.0",
+  "description": "A vibrant neon theme with glowing accents and dark backgrounds.",
+  "author": "DesQTA Community",
+  "license": "MIT",
+  "compatibility": {
+    "minVersion": "1.0.0",
+    "maxVersion": "2.0.0"
+  },
+  "preview": {
+    "thumbnail": "/external-themes/neon/preview.png",
+    "screenshots": []
+  },
+  "settings": {
+    "defaultAccentColor": "#39ff14",
+    "defaultTheme": "dark",
+    "supportsLightMode": true,
+    "supportsDarkMode": true,
+    "supportsSystemMode": true
+  },
+  "customProperties": {
+    "primaryColor": "#39ff14",
+    "secondaryColor": "#00fff7",
+    "successColor": "#00ff00",
+    "warningColor": "#fffb00",
+    "errorColor": "#ff073a",
+    "backgroundColor": "#181818",
+    "surfaceColor": "#222222",
+    "textColor": "#e0ffe0",
+    "borderColor": "#39ff14",
+    "shadowColor": "rgba(57, 255, 20, 0.2)"
+  },
+  "fonts": {
+    "primary": "Inter",
+    "secondary": "Arial Black",
+    "monospace": "JetBrains Mono"
+  },
+  "animations": {
+    "duration": "200ms",
+    "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "enableEnhanced": true
+  },
+  "features": {
+    "customScrollbars": true,
+    "glassmorphism": true,
+    "gradients": true,
+    "shadows": true
+  }
+} 

@@ -1,0 +1,18 @@
+body {
+  background: #fff8dc;
+  color: #222222;
+  font-family: Inter, 'Courier New', monospace;
+}
+
+.button, .accent {
+  background: #ff69b4;
+  color: #fff;
+}
+
+.surface {
+  background: #ffe4e1;
+}
+
+a {
+  color: #ffd700;
+} 
